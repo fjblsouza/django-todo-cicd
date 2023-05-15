@@ -6,3 +6,4 @@ metadata:
     app: todo
 data:
   MYSQL_DB: "todo-db"
+  MY_FAV_APP: "django-app"
